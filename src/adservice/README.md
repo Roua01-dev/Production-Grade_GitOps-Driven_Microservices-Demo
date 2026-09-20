@@ -30,3 +30,4 @@ docker build ./
 
 CI test
 CI test 2
+CI test after lowercase fix
