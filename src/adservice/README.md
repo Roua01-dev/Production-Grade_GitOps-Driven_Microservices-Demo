@@ -29,3 +29,4 @@ docker build ./
 
 
 CI test
+CI test 2
